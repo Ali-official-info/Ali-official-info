@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **web-Development**
 
-- 📫 How to reach me **muhammedali.official62@gmail.com**
+- 📫 How to reach me **info.official.ali@gmail.com**
 
 - 📄 Know about my experiences [https://alideveloper.netlify.app/](https://alideveloper.netlify.app/)
 
