@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-linux43&label=Profile%20views&color=0e75b6&style=flat" alt="ali-linux43" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muhammedali6279" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedali6279?logo=twitter&style=for-the-badge" alt="muhammedali6279" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muhammedali6279" target="blank"><img src="https://x.com/ali_official_in?t=rnw47gkaY-S78pl_uhcHdQ&s=09" alt="@ali_official_in" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce Application**
 
